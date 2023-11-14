@@ -1,0 +1,94 @@
+{
+    "result": [
+    {
+      "no": "1",
+      "name": "Anthonio Sinisuka Ginting",
+      "birth_date": "1996-10-20",
+      "nationality": "Indonesia",
+      "number": "Single",
+      "merk_racket": "Li-Ning",
+      "Poster": "https://img.okezone.com/content/2021/08/05/40/2451393/sabet-perunggu-di-olimpiade-tokyo-2020-anthony-ginting-dapat-julukan-unik-dari-bwf-0PzVXYguNU.jpg"
+    },
+    {
+        "no": "2",
+        "name": "Jonatan Christie",
+        "birth_date": "1997-09-25",
+        "nationality": "Indonesia",
+        "number": "single",
+        "merk_racket": "Li-Ning",
+        "Poster": "https://1.bp.blogspot.com/-DGJEYLHR2L4/V1go2L9zKBI/AAAAAAAAFO4/Mka37nCmGM0F8_FAgAsDMD8eokKMt8u5gCLcB/s1600/_jona.jpg"
+    },
+    {
+        "no": "3",
+        "name": "Chiharu Shida",
+        "birth_date": "1997-04-29",
+        "nationality": "Jepang",
+        "number": "Double",
+        "merk_racket": "Yonex",
+        "Poster": "https://s.kaskus.id/images/2022/07/22/11186104_20220722062903.jpg"
+    },
+    {
+        "no": "4",
+        "name": "Viktor Axelsen",
+        "birth_date": "1994-01-04",
+        "nationality": "Denmark",
+        "number": "Single",
+        "merk_racket": "Yonex",
+        "Poster": "https://img.inews.co.id/media/600/files/inews_new/2021/01/17/viktor_axelsen.jpg"
+    },
+    {
+        "no": "5",
+        "name": "Huang Yaqiong",
+        "birth_date": "1994-02-28",
+        "nationality": "China",
+        "number": "Mix Double",
+        "merk_racket": "Yonex",
+        "Poster": "https://i.pinimg.com/originals/f0/25/b9/f025b9fe7f66ca125b3d1f3ed191ed4c.png"
+    },
+    {
+        "no": "6",
+        "name": "Greysia Polli",
+        "birth_date": "1986-07-11",
+        "nationality": "Indonesia",
+        "number": "Double Women",
+        "merk_racket": "Li-Ning",
+        "Poster": "https://www.kalderanews.com/wp-content/uploads/2021/08/Greysia-Polli-678x381.png"
+    },
+    {
+        "no": "7",
+        "name": "AKento Momota",
+        "birth_date": "1994-08-01",
+        "nationality": "Jepang",
+        "number": "Single",
+        "merk_racket": "Yonex",
+        "Poster": "https://www.lyceum.id/wp-content/uploads/041560800_1576400873-20191215-Anthony-Ginting-Gagal-Juara-BWF-World-Tour-Finals-AP-3.jpg"
+    },
+    {
+        "no": "8",
+        "name": "Hendra Setiawan",
+        "birth_date": "1984-07-25",
+        "nationality": "Indonesia",
+        "number": "Double Men",
+        "merk_racket": "Victor",
+        "Poster": "https://assets.pikiran-rakyat.com/crop/92x0:799x723/x/photo/2021/06/14/195818477.png"
+    },
+    {
+        "no": "9",
+        "name": "Kevin Sanjaya Sukamuljo",
+        "birth_date": "1995-07-02",
+        "nationality": "Indonesia",
+        "number": "Double Men",
+        "merk_racket": "Yonex",
+        "Poster": "https://assets.pikiran-rakyat.com/crop/0x0:0x0/x/photo/2022/08/02/2403191702.jpeg"
+    },
+    {
+        "no": "10",
+        "name": "Melati Daeva Oktavianti",
+        "birth_date": "1994-10-26",
+        "nationality": "Indonesia",
+        "number": "Mix Double",
+        "merk_racket": "Yonex",
+        "Poster": "https://i.pinimg.com/736x/f5/de/b2/f5deb24368dc0b4123b7b31aa15aa6a2.jpg"
+    }
+   ]
+  }
